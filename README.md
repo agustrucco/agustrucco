@@ -69,3 +69,12 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agustrucco&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustrucco&layout=compact&hide_border=true" />
+</p>
