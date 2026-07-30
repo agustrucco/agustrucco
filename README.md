@@ -5,6 +5,12 @@
   Industrial Engineer · MBT Candidate @ UdeSA
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/agustintrucco/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 <br/>
 
 ### 🚀 What I'm building
