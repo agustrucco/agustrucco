@@ -33,6 +33,18 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 
 <br/>
 
+### Side projects
+
+| | Project | Stack |
+| - | ------- | ----- |
+| 🛠️ | **ARDE Tools** — Python CLI for a jewelry business · 84 SKUs · auto-validation against master catalog · in production, used daily | Python · openpyxl · Excel |
+| 🌐 | **[Dota Gráfica](https://dotagrafica.com.ar)** — Full website for a graphic design studio · hero slider · Netlify Forms · [Live ↗](https://dotagrafica.com.ar) | HTML · CSS · JS · Netlify |
+| 💳 | **Wallet COTO** *(MBT prototype)* — Customer wallet + manager dashboard with real-time cross-tab sync | React 19 · TypeScript · Vite · Zustand |
+| 📦 | **[zapatillas-stock](https://github.com/agustrucco/zapatillas-stock)** — Inventory app with real auth & Row-Level Security | HTML · JS · Supabase |
+| 🖱️ | **Teams Jiggler** — Keeps Teams status active · system tray · auto-shutoff at 18:00 · packaged as .exe | Python · PyAutoGUI · PyInstaller |
+
+<br/>
+
 ### Stack
 
 **AI & Agents**
@@ -57,6 +69,9 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Enterprise**
 
@@ -69,6 +84,8 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 <br/>
 
