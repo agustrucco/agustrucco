@@ -15,7 +15,7 @@
 
 I sit at the intersection of product management and hands-on AI development.
 I design automation tools that cut manual work from hours to minutes — and then build them.
-Currently leading a 22-person cross-functional team managing 56 digital products at Accenture,
+Currently working on a 22-person cross-functional team, managing 56 digital products at Accenture,
 while writing my MBT thesis on multi-agent AI systems at UdeSA.
 
 <br/>
