@@ -27,6 +27,8 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 | ⚙️ | **Python Demand Pipeline** | 4-5 hrs/week → 30 min · 89% reduction · 200 hrs/yr freed |
 | 🤖 | **[Product Inventory AI Agent](https://github.com/agustrucco/product-inventory-comparison-agent)** · [Live demo ↗](https://agustrucco.github.io/product-inventory-comparison-agent/) | 1-day audit → 30 min · 94% reduction · live on SharePoint |
 | 📦 | **[catalog-order-encoder](https://github.com/agustrucco/catalog-order-encoder)** | 20 min → 2 min order encoding · 6,700+ products · fuzzy + semantic search · WhatsApp bot |
+| 🎓 | **[agentic-academic-workflow](https://github.com/agustrucco/agentic-academic-workflow)** | 60-page business case · 6 specialized agents · NPV positive in all scenarios · board-ready pitch |
+| 🛠️ | **[retail-inventory-tools](https://github.com/agustrucco/retail-inventory-tools)** | Python CLI in production daily · auto-validation against master catalog · 84 SKUs |
 | 🔄 | **RoRo Process 2.0** | Talent lifecycle system · Power Apps + Dataverse + Power Automate |
 | 🧠 | **AI Staffing Matching Agent** | In production at Accenture |
 | 🍽️ | **[Picki](https://github.com/agustrucco/picki-app-main)** *(MBT thesis)* | Multi-agent AI app · food safety & dietary profiling |
