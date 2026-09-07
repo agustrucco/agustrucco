@@ -28,6 +28,7 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 | 🤖 | **[Product Inventory AI Agent](https://github.com/agustrucco/product-inventory-comparison-agent)** · [Live demo ↗](https://agustrucco.github.io/product-inventory-comparison-agent/) | 1-day audit → 30 min · 94% reduction · live on SharePoint |
 | 🔄 | **RoRo Process 2.0** | Talent lifecycle system · Power Apps + Dataverse + Power Automate |
 | 🧠 | **AI Staffing Matching Agent** | In production at Accenture |
+| 📦 | **[catalog-order-encoder](https://github.com/agustrucco/catalog-order-encoder)** | 20 min → 2 min order encoding · 6,700+ products · fuzzy + semantic search · WhatsApp bot |
 | 🍽️ | **Dietary Safety Agent** *(MBT thesis)* | Multi-agent AI · food safety & dietary profiling |
 | 📣 | **CoP NEU PM** | PM community · 200+ members across North Europe |
 
@@ -39,7 +40,7 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 | - | ------- | ----- |
 | 🛠️ | **ARDE Tools** — Python CLI for a jewelry business · 84 SKUs · auto-validation against master catalog · in production, used daily | Python · openpyxl · Excel |
 | 🌐 | **[Dota Gráfica](https://dotagrafica.com.ar)** — Full website for a graphic design studio · hero slider · Netlify Forms · [Live ↗](https://dotagrafica.com.ar) | HTML · CSS · JS · Netlify |
-| 💳 | **Wallet COTO** *(MBT prototype)* — Customer wallet + manager dashboard with real-time cross-tab sync | React 19 · TypeScript · Vite · Zustand |
+| 🎓 | **[agentic-academic-workflow](https://github.com/agustrucco/agentic-academic-workflow)** — Multi-agent AI system for grad school work · 6 specialized agents · Research → Design → Review → Write → Slides | Claude · Supabase · Markdown |
 | 📦 | **[zapatillas-stock](https://github.com/agustrucco/zapatillas-stock)** — Inventory app with real auth & Row-Level Security | HTML · JS · Supabase |
 | 🖱️ | **Teams Jiggler** — Keeps Teams status active · system tray · auto-shutoff at 18:00 · packaged as .exe | Python · PyAutoGUI · PyInstaller |
 
@@ -64,7 +65,7 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 ![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
-**Frontend**
+**Frontend & Backend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -72,6 +73,7 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 
 **Enterprise**
 
@@ -80,11 +82,12 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white)
 
-**Cloud**
+**Cloud & Data**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 <br/>
