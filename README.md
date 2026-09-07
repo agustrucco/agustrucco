@@ -40,8 +40,6 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 
 | | Project | Stack |
 | - | ------- | ----- |
-| 🎓 | **[agentic-academic-workflow](https://github.com/agustrucco/agentic-academic-workflow)** — Multi-agent AI workflow for grad school · 6 specialized agents · Research → Design → Review → Write → Slides | Claude · Markdown |
-| 🛠️ | **[retail-inventory-tools](https://github.com/agustrucco/retail-inventory-tools)** — Python CLI for sales & inventory in a shared Excel workbook · auto-validation against master catalog · in production, used daily | Python · openpyxl · Excel |
 | 📚 | **[course-material-vectorizer](https://github.com/agustrucco/course-material-vectorizer)** — Converts PDF / DOCX / PPTX document libraries into Markdown files ready for NotebookLM | Python · pypandoc · pdf2image |
 | 🖱️ | **[screen-jiggler](https://github.com/agustrucco/screen-jiggler)** — Windows tray utility that keeps the screen on during long Claude Code runs · SetThreadExecutionState + mouse nudge | Python · PyInstaller |
 | 📦 | **[zapatillas-stock](https://github.com/agustrucco/zapatillas-stock)** — Inventory app with real auth & Row-Level Security | HTML · JS · Supabase |
