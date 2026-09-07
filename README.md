@@ -42,9 +42,6 @@ while writing my MBT thesis on multi-agent AI systems at UdeSA.
 | - | ------- | ----- |
 | 📚 | **[course-material-vectorizer](https://github.com/agustrucco/course-material-vectorizer)** — Converts PDF / DOCX / PPTX document libraries into Markdown files ready for NotebookLM | Python · pypandoc · pdf2image |
 | 🖱️ | **[screen-jiggler](https://github.com/agustrucco/screen-jiggler)** — Windows tray utility that keeps the screen on during long Claude Code runs · SetThreadExecutionState + mouse nudge | Python · PyInstaller |
-| 📦 | **[zapatillas-stock](https://github.com/agustrucco/zapatillas-stock)** — Inventory app with real auth & Row-Level Security | HTML · JS · Supabase |
-| 🖱️ | **Teams Jiggler** — Keeps Teams status active · system tray · auto-shutoff at 18:00 · packaged as .exe | Python · PyAutoGUI · PyInstaller |
-| 🌐 | **[Dota Gráfica](https://dotagrafica.com.ar)** — Full website for a graphic design studio · hero slider · Netlify Forms · [Live ↗](https://dotagrafica.com.ar) | HTML · CSS · JS · Netlify |
 
 <br/>
 
