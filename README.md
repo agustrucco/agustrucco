@@ -27,15 +27,13 @@ Early adopter. Techno-optimist. Builder. Ship before it's perfect, fail fast, ke
 
 | | Project | Impact |
 |-|---------|--------|
-| ⚙️ | **Python Demand Pipeline** | 4-5 hrs/week → 30 min · 89% reduction · 200 hrs/yr freed |
+| ⚙️ | **agentic-report-pipeline** | Weekly reporting automation · 12 entry points (7 notebooks + 5 scripts) · 4+ data sources · 4 Power BI dashboards · Claude Code as agentic dev layer · hours of manual work → minutes |
 | 🤖 | **[sku-diff-agent](https://github.com/agustrucco/sku-diff-agent)** · [Live demo ↗](https://agustrucco.github.io/sku-diff-agent/) | 1-day audit → 30 min · 94% reduction · live on SharePoint |
 | 📦 | **[catalog-order-encoder](https://github.com/agustrucco/catalog-order-encoder)** | 20 min → 2 min order encoding · 6,700+ products · fuzzy + semantic search · WhatsApp bot |
 | 🎓 | **[agentic-academic-workflow](https://github.com/agustrucco/agentic-academic-workflow)** | 60-page business case · 6 specialized agents · NPV positive in all scenarios · board-ready pitch |
 | 🛠️ | **[retail-inventory-tools](https://github.com/agustrucco/retail-inventory-tools)** | Python CLI in production daily · auto-validation against master catalog · 84 SKUs |
-| 🔄 | **RoRo Process 2.0** | Talent lifecycle system · Power Apps + Dataverse + Power Automate |
-| 🧠 | **AI Staffing Matching Agent** | In production at Accenture |
+| 🔄 | **agentic-onboarding-pipeline** | Talent lifecycle automation · Power Apps + Dataverse + Power Automate · 3 weeks → 48 hours |
 | 🍽️ | **[Picki](https://github.com/agustrucco/picki-app-main)** *(MBT thesis)* | Multi-agent AI app · food safety & dietary profiling |
-| 📣 | **CoP NEU PM** | PM community · 200+ members across North Europe |
 
 <br/>
 
