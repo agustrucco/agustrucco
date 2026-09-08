@@ -28,11 +28,10 @@ Early adopter. Techno-optimist. Builder. Ship before it's perfect, fail fast, ke
 | | Project | Impact |
 |-|---------|--------|
 | ⚙️ | **agentic-report-pipeline** | Weekly reporting automation · 12 entry points (7 notebooks + 5 scripts) · 4+ data sources · 4 Power BI dashboards · Claude Code as agentic dev layer · hours of manual work → minutes |
-| 🤖 | **[sku-diff-agent](https://github.com/agustrucco/sku-diff-agent)** · [Live demo ↗](https://agustrucco.github.io/sku-diff-agent/) | 1-day audit → 30 min · 94% reduction · live on SharePoint |
+| 🤖 | **sku-diff-agent** | 1-day audit → 30 min · 94% reduction · CRM/ERP export vs external platform · record-by-record diff |
 | 📦 | **[catalog-order-encoder](https://github.com/agustrucco/catalog-order-encoder)** | 20 min → 2 min order encoding · 6,700+ products · fuzzy + semantic search · WhatsApp bot |
 | 🎓 | **[agentic-academic-workflow](https://github.com/agustrucco/agentic-academic-workflow)** | 60-page business case · 6 specialized agents · NPV positive in all scenarios · board-ready pitch |
 | 🛠️ | **[retail-inventory-tools](https://github.com/agustrucco/retail-inventory-tools)** | Python CLI in production daily · auto-validation against master catalog · 84 SKUs |
-| 🔄 | **agentic-onboarding-pipeline** | Talent lifecycle automation · Power Apps + Dataverse + Power Automate · 3 weeks → 48 hours |
 | 🍽️ | **[Picki](https://github.com/agustrucco/picki-app-main)** *(MBT thesis)* | Multi-agent AI app · food safety & dietary profiling |
 | 📚 | **[course-material-vectorizer](https://github.com/agustrucco/course-material-vectorizer)** | Converts PDF / DOCX / PPTX libraries into Markdown ready for NotebookLM · Python · pypandoc |
 | 🖱️ | **[screen-jiggler](https://github.com/agustrucco/screen-jiggler)** | Keeps the screen alive during long Claude Code runs · SetThreadExecutionState + mouse nudge · Python · PyInstaller |
