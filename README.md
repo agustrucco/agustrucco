@@ -34,15 +34,8 @@ Early adopter. Techno-optimist. Builder. Ship before it's perfect, fail fast, ke
 | 🛠️ | **[retail-inventory-tools](https://github.com/agustrucco/retail-inventory-tools)** | Python CLI in production daily · auto-validation against master catalog · 84 SKUs |
 | 🔄 | **agentic-onboarding-pipeline** | Talent lifecycle automation · Power Apps + Dataverse + Power Automate · 3 weeks → 48 hours |
 | 🍽️ | **[Picki](https://github.com/agustrucco/picki-app-main)** *(MBT thesis)* | Multi-agent AI app · food safety & dietary profiling |
-
-<br/>
-
-### Open source & side projects
-
-| | Project | Stack |
-| - | ------- | ----- |
-| 📚 | **[course-material-vectorizer](https://github.com/agustrucco/course-material-vectorizer)** — Converts PDF / DOCX / PPTX document libraries into Markdown files ready for NotebookLM | Python · pypandoc · pdf2image |
-| 🖱️ | **[screen-jiggler](https://github.com/agustrucco/screen-jiggler)** — Windows tray utility that keeps the screen on during long Claude Code runs · SetThreadExecutionState + mouse nudge | Python · PyInstaller |
+| 📚 | **[course-material-vectorizer](https://github.com/agustrucco/course-material-vectorizer)** | Converts PDF / DOCX / PPTX libraries into Markdown ready for NotebookLM · Python · pypandoc |
+| 🖱️ | **[screen-jiggler](https://github.com/agustrucco/screen-jiggler)** | Keeps the screen alive during long Claude Code runs · SetThreadExecutionState + mouse nudge · Python · PyInstaller |
 
 <br/>
 
