@@ -13,10 +13,13 @@
 
 <br/>
 
-I sit at the intersection of product management and hands-on AI development.
-I design automation tools that cut manual work from hours to minutes — and then build them.
-Currently working on a 22-person cross-functional team, managing 56 digital products at Accenture,
-while writing my MBT thesis on multi-agent AI systems at UdeSA.
+Industrial Engineer and MBT Candidate at UdeSA — a graduate program that combines business strategy with technology.
+
+I build product, AI, and business. With 8+ years in tech, I run execution and strategy at top-tier firms, and work alongside founders and entrepreneurs to shape MVPs and product roadmaps.
+
+My focus is AI agents that operate with real context, the right model for each process, and a memory that grows through continuous iteration. Some live inside Accenture. Others are independent projects.
+
+Early adopter. Techno-optimist. Builder. Ship before it's perfect, fail fast, keep the user in focus.
 
 <br/>
 
